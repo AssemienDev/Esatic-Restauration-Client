@@ -14,3 +14,6 @@ Restaurant Esatic Client est une application de gestion de carte de restauration
 <h3>Page d'acceuil utilisateur</h3>
 
 
+<h3>Licence</h3>
+
+Ce projet est sous licence MIT - voir le fichier <a href="LICENSE">LICENSE</a> pour plus de détails.
